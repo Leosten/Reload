@@ -1,0 +1,7 @@
+
+/*to check if the argument is in lower case only */
+
+char	**lowerc(char **Argv)
+{
+  
+}
