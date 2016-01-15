@@ -17,9 +17,8 @@
 typedef struct s_list
 {
   int		id;
-  char		str;
-  int		val;
-  struct	s_list;
+  char		val;
+  struct s_list *next_list;
 }		t_list;
 
 #endif /* !Reload */
